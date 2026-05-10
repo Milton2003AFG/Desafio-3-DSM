@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Desafio 3 DSM</string>
+    <string name="app_name">AprendeApp</string>
     <string name="welcome_message">¡Bienvenido a AprendeApp!</string>
     <string name="login_title">Iniciar Sesión</string>
     <string name="register_title">Crear Cuenta</string>
